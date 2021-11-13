@@ -9,7 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "echarts": "^5.2.2",
+    "element-ui": "^2.15.6",
+    "lib-flexible": "^0.3.2",
+    "swiper": "^5.4.5",
     "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
@@ -20,6 +25,8 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.43.4",
+    "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
